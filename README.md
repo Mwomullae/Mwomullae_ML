@@ -5,6 +5,7 @@
 ---
 <br>
 
+## File information
 ---
 * restaurant_recommendation_algorithm.ipynb: 랜덤 데이터를 이용하여 작성된 초기 모델입니다. 
 * real_restaurant_recommendation_algorithm.ipynb: 실제 데이터를 이용하여 작성된 모델입니다.
